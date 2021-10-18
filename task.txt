@@ -1,0 +1,13 @@
+#Todo
+
+project setup
+
+First setup
+- setup charkra styling and emotion
+- setup test
+  - Jest
+  - DOM testing lib
+  - React testing lib
+- Eslint and prittier
+- pre-commit hooks
+- readme 
