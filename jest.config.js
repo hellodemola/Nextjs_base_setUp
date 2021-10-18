@@ -5,6 +5,7 @@ module.exports = {
     '**/*.{js,jsx,ts,tsx}',
     '!**/*.d.ts',
     '!**/node_modules/**',
+    '!**/.next/**',
     '!**/jest.config.js',
     '!**/__mock__/**',
     '!**/_app.js',
