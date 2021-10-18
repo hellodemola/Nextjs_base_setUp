@@ -7,8 +7,10 @@ module.exports = {
     '!**/node_modules/**',
     '!**/.next/**',
     '!**/jest.config.js',
+    '!**/coverage/**',
+    '!**/next.config.js/**',
     '!**/__mock__/**',
-    '!**/_app.js',
+    '!**/pages/_app.jsx',
   ],
   setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
   moduleNameMapper: {
