@@ -4,8 +4,7 @@ This is a [Next.js] base project.
 
 First, install dependence, 
 
-```run npm install
-```
+```run npm install```
 and on the development server:
 
 ```bash
