@@ -11,6 +11,7 @@ module.exports = {
     '!**/next.config.js/**',
     '!**/__mock__/**',
     '!**/pages/_app.jsx',
+    '!**/.storybook/**',
   ],
   setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
   moduleNameMapper: {
